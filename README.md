@@ -1,4 +1,4 @@
-# Module11_Homework.
+# Module11_Homework
 
 ## Задание 1. 
 Настроить тестовое окружение JEST
